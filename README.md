@@ -16,16 +16,16 @@ SkyCast is a user-friendly weather application that provides real-time weather u
   
 * Clean Interface: Enjoy a clean and intuitive interface that makes it easy to navigate and find the information you need.
 
-# Installation
+### Installation
 To use SkyCast, simply open the application in your web browser. No installation is required!
 
-#### Usage
+### Usage
 
 Enter the name of a city or location in the search bar.
 Press the "Search" button or hit Enter to retrieve the weather information.
 View the current weather conditions displayed on the main screen.
 
-##### Technologies Used
+### Technologies Used
 
 HTML5
 CSS3
@@ -33,14 +33,14 @@ JavaScript
 Axios (for fetching weather data)
 Netlify (for hosting)
 
-###### Credits
+### Credits
 
 Weather data provided by SheCodes Weather API
 
-####### Contributors
+### Contributors
 
 Murangi Nthangeni
 
-######## Feedback
+### Feedback
 
 We welcome feedback! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue.
