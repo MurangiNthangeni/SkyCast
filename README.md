@@ -8,11 +8,15 @@ SkyCast is a user-friendly weather application that provides real-time weather u
 
 ### Features
 
-Current Weather: Get the current weather conditions including temperature, humidity, wind speed, and more.
-Search Functionality: Easily search for weather information by entering the name of a city or location.
-Responsive Design: SkyCast is optimized for both desktop and mobile devices, ensuring a seamless user experience.
-Clean Interface: Enjoy a clean and intuitive interface that makes it easy to navigate and find the information you need.
-Installation
+* Current Weather: Get the current weather conditions including temperature, humidity, wind speed, and more.
+  
+* Search Functionality: Easily search for weather information by entering the name of a city or location.
+  
+* Responsive Design: SkyCast is optimized for both desktop and mobile devices, ensuring a seamless user experience.
+  
+* Clean Interface: Enjoy a clean and intuitive interface that makes it easy to navigate and find the information you need.
+
+# Installation
 To use SkyCast, simply open the application in your web browser. No installation is required!
 
 #### Usage
