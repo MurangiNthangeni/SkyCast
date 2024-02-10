@@ -133,3 +133,17 @@ main {
   font-size: 14px;
   color: rgba(0, 0, 0, 0.6);
 }
+
+@media screen and (max-width: 600px) {
+  .weather-app {
+    max-width: 100%;
+    padding: 15px;
+  }
+  .weather-app-city {
+    font-size: 24px;
+  }
+  .weather-app-details {
+    font-size: 14px;
+  }
+}
+
